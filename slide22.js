@@ -1,0 +1,3 @@
+(function(){var loadHandler=window['sl_{2835D3AF-EACF-4D67-BAF4-03E69812DE9A}'];loadHandler&&loadHandler(21, '<div id="spr0_17730a5"><div id="spr1_17730a5" class="kern slide"><img id="img1_17730a5" src="data/img0.png" width="1280px" height="720px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_17730a5" class="kern slide"><div id="spr3_17730a5" aria-label="人的脸\
+\
+AI 生成的内容可能不正确。" role="group" style="left:0.002px;top:0.135px;"><div id="spr4_17730a5" style="top:-0.137px;"><img id="img0_17730a5" src="data/img12.jpg" width="1279.998" height="720.002" alt=""/></div></div></div></div>', '{"s":[]}');})();
